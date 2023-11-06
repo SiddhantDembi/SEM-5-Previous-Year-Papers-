@@ -1,0 +1,131 @@
+Important Topics
+
+IP:
+
+Module 1:
+
+Module 2:
+
+Module 3:
+
+Module 4:
+
+Module 5:
+
+Module 6:
+
+Unkonwn:
+
+Short note:
+
+CNS:
+
+Module 1:
+explain security services and mechanisms to implement it.
+playfair cipher with eg
+security goals and mechanism
+classical encryption technique with eg
+transposition cipher
+
+Module 2:
+HMAC vs CMAC
+Describe different block cipher modes
+Kerberos protocol in detail
+Properties and application of hash functions
+RSA numerical
+AES vs DES
+drawbacks of DES
+Explain  digital signature and its significance 
+What is authentication
+Diffie Hellman key exchange
+Needham Schroeder protocol
+
+Module 3:
+Define Malware and explain any 5 types
+Explain Denial of service attack
+
+Module 4:
+Explain SSH prottocol stack
+Explain different types of protocol offered by SSL
+Explain working of IPsec in its different modes
+How is security achieved in transport and tunnel modes of ipsec
+Describe the role of AH and ESP
+
+Module 5:
+Explain different NAC enforcement methods
+What is NAC. Discuss different elements present in NAC
+Principles and need of NAC
+NAC use cases
+Explain SNMPv3.
+Explain network management security
+
+Module 6:
+State Firewall design principles and its types with advantages
+Explain firewall and its types along with advtg and disadvtg
+Explain IDS and its types
+
+Short Note: 
+SSL
+TSL
+AES and DES
+IDS
+NAC
+Digital signature
+HMAC and CMAC
+ARP spoofing 
+Port scanning
+Honeypot
+El Gamal Algo
+Session Hijack
+Email Security
+IPsec
+
+Unkown:
+ARP
+KDC
+PKI
+
+EEB:
+
+Module 1:
+
+Module 2:
+
+Module 3:
+
+Module 4:
+
+Module 5:
+
+Module 6:
+
+SE:
+
+Module 1:
+
+Module 2:
+
+Module 3:
+
+Module 4:
+
+Module 5:
+
+Module 6:
+
+ADSA:
+
+Module 1:
+
+Module 2:
+
+Module 3:
+
+Module 4:
+
+Module 5:
+
+Module 6:
+
+
+
