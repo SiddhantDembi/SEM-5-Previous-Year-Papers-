@@ -3,20 +3,50 @@ Important Topics
 IP:
 
 Module 1:
+What is DNS. Explain its working.
+What is REST api. What are principles of REST api.
+What is Web browser. explain its working
+HTML vs XML
+XML vs JSON
+Explain XML Schema in detail
 
 Module 2:
+How to declare variables in es6
+es5 vs es6
+explain promises in es6 with examples.
+explain asychronous programming in detail
+explain arrow functions in es6 with examples
+what are events in js. explain its types.
 
 Module 3:
+Explain react component lifecycle
+What is react jsx	
 
 Module 4:
+Explain flux arcchitecture
+What is refs? When to use and when not to use?
+explain redux architecture
 
 Module 5:
+Explain File system of node js
+what are buffers and streams in node js. explain with examples
 
 Module 6:
+What is express. what are its features
+explain routing in express js along with example.
 
-Unkonwn:
+Code:
+Code hello world in react
 
 Short note:
+JSON
+NPM
+JSX
+Arrow function
+difference btween let and const
+REPL
+DOM
+URL
 
 CNS:
 
@@ -26,6 +56,7 @@ playfair cipher with eg
 security goals and mechanism
 classical encryption technique with eg
 transposition cipher
+ARP
 
 Module 2:
 HMAC vs CMAC
@@ -39,6 +70,8 @@ Explain  digital signature and its significance
 What is authentication
 Diffie Hellman key exchange
 Needham Schroeder protocol
+PKI
+KDC
 
 Module 3:
 Define Malware and explain any 5 types
@@ -79,53 +112,165 @@ El Gamal Algo
 Session Hijack
 Email Security
 IPsec
-
-Unkown:
-ARP
-KDC
 PKI
+KDC
+ARP
 
 EEB:
 
 Module 1:
+Describe a woman enterpreneur and state the steps govt should take to encourage women entrepreneurs
+Manager vs entrepreneur
+Define entrepreneur and list atleast 4 roles
+types of entrepreneur with eg
+3 principles of entrepreneurial leadership
+Characteristics of enterpreneur
 
 Module 2:
+Describe Entrepreneurial motivation and explain different ways an entrepreneur can motivate his employees.
+Explain different types of enterprises based on ownership structure
+Explain the different non-financial motivational techniques that can be used by Entrepreneurs to motivate their Employees.
 
 Module 3:
+List different methods of acquisition
+disadvantages of acquisition of an established buisness venture
+Write a detailed report on factors to be considered when starting a new business.
+List different factors that can result in failure of a new venture
+Explain features of a good buisness plan with eg
+Explain buisness plan and its drivers
+Explain how a venture can be established using the method - ‘Obtaining the franchise’.
 
 Module 4:
+Enlist and explain the different sources of Finance for enterprises.
+Taylor 4 principles of scientefic management
+Briefly explain the different stages where Businesses can require need for financing.
+What are micro, small and medium enterprises
+Discuss following: Seed funding/crowdfunding/venture capital/public equity
+Elaborate on Information management. What are the advantages of well-managed information?
 
 Module 5:
+Define E-commerce and explain different types of E-commerce.
+Explain with example the following statement: E-commerce can result in globalization of the business activity.
+Explain briefly M-Commerce and E-Government type of business.
+Use of e-business technologies, results in better and more timelydecisions across all channels of the supply chain. Justify.
 
 Module 6:
+Explain supply chain management
+Define an ERP. List the different features an ERP should have for an educational institute software.
+Discuss the core and extended components of ERP system.
+Risks of ERP
+Describe evolution, functions and current trends of customer relationship management
+Explain procurement and E-Procurement and describe the components of e-Procurement.
+
+Unknown module:
+Explain technology adoption. explain steps to be taken for technology adoption
+Incubators vs Accelerators
 
 SE:
 
 Module 1:
+Explain characteristics and nature of software
+explain principles of agile methodology
+agile vs evolutionary process model
+explain v model
+explain evolutionary process model
+what is agility. explain kanban model
+explain scrum
+what is software engineering
+explain rad model
 
 Module 2:
+Explain Characteristics of SRS 
+Build an SRS Document for online student feedback system/job recruitment
+What is feasability study. Discuss different types 
+Explain requirement elicitation in detail
+Discuss Functional and on functional requirements 
+Explain elements of analysis model
 
 Module 3:
+Explain 3 P's in software project spectrum
+Explain LOC and function point estimation technique in detail
+advantages and disadvantages for large sized software projects
+Explain process metrics and project metrics
+Function Point value numerical
+what is function point analysis and what are its benefits in engineering process
 
 Module 4:
+discuss about principles of user interface design steps
+Explain different types of coupling and cohesion
+Explain different architectural styles
 
 Module 5:
+Explain Risk Mitigation, Monitoring and management (RMMM) plan
+Explain Change control process in SCM
+What is risk? Explain different types of risk
+Explain risk assessment and risk projection
 
 Module 6:
+Explain the steps in SQA(Software Quality Assesment) plan
+Short note on Mc-Calls quality factors
+Explain software testing strategy and its techniques
+Explain in detail: Reeingineering and reverse engineering
+Explain in detail software testing strategies
+Alpha vs beta testing
 
 ADSA:
 
 Module 1:
+different methods of solving recurrences. explain with eg
+compute complexity of the given code
+explain master theorem
+Master theorem numerical
+What is complexity. explain asymptotic notation
 
 Module 2:
+Define avl tree
+construct avl tree of given data
+build a max heap for given numbers (memory representation of heap)
+define b tree. explain insertion and deletion operations on a b tree with examples
+create b tree (insertion)
 
 Module 3:
+algo for min and max from a given set
+algo for quick sort and comment on its complexity
+quick sort numerical
+Explain Knapsack with eg
+Knapsack numerical (fractional)
+Explain divide and conquer approach
+Job seqquencing numerical
+explain greedy strategy of designing algo
 
 Module 4:
+Greedy vs Dynamic programming
+explain coin changing problem
+Explain travelling salesman problem with eg
+Explain Knapsack with eg
+Numerical Travelling salesman
+What is optimal binary search tree with eg
+All pair shortest path numerical and theory with complexity
+explain Matrix chain Multiplication and numerical
 
 Module 5:
+What is LCS(Longest common subsequence)
+find lcs for following string
+Explain Rabin Karp Algo
+explain naive string matching method and write its algo
+explain knuth morris pratt algo and its complexity
+compute prefix function for the pattern
 
 Module 6:
+Genetic algo
+approximation algorithm
 
-
-
+Short Notes:
+Genetic algo
+red and black tree
+merge sort
+knuth morris pratt algo
+optimal binary search tree
+Robin Karp
+Minimum cost spanning tree
+Topological sort
+Unkown module:
+huffman
+kruskal and prims
